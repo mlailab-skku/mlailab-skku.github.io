@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joon Hee Choi"
+title                    : "Machine Learning and Artificial Intelligence Lab"
 title_separator          : "-"
 name                     : &name "Joon Hee Choi"
 description              : &description "Assistant Professor, Department of Software, Sungkyunkwan University"
