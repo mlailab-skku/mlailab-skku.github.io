@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Machine Learning and Artificial Intelligence Lab"
+title                    : "MLAI Lab"
 title_separator          : "-"
 name                     : &name "Joon Hee Choi"
 description              : &description "Assistant Professor, Department of Software, Sungkyunkwan University"
@@ -76,39 +76,39 @@ analytics:
 
 
 # Site Author
-author:
-  name             : "Joon Hee Choi"
-  avatar           : #"lantaoyu.jpg"
-  bio              : "Assistant Professor, Department of Software, Sungkyunkwan University" #"Ph.D. student, Computer Science Department, Stanford University"
-  location         : #"Stanford, California"
-  employer         : 
-  googlescholar    :  #"https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
-  email            : jhchoi2019@skku.edu #"lantaoyu@cs.stanford.edu"
-  uri              : 
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : 
-  foursquare       :
-  github           : #"LantaoYu"
-  google_plus      :
-  keybase          :
-  instagram        : 
-  lastfm           :
-  linkedin         :
-  orcid            : 
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        : 
+#author:
+#  name             : "Joon Hee Choi"
+#  avatar           : #"lantaoyu.jpg"
+#  bio              : "Assistant Professor, Department of Software, Sungkyunkwan University" #"Ph.D. student, Computer Science Department, Stanford University"
+#  location         : #"Stanford, California"
+#  employer         : 
+#  googlescholar    :  #"https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
+#  email            : jhchoi2019@skku.edu #"lantaoyu@cs.stanford.edu"
+#  uri              : 
+#  bitbucket        :
+#  codepen          :
+#  dribbble         :
+#  flickr           :
+#  facebook         : 
+#  foursquare       :
+#  github           : #"LantaoYu"
+#  google_plus      :
+#  keybase          :
+#  instagram        : 
+#  lastfm           :
+#  linkedin         :
+#  orcid            : 
+#  pinterest        :
+#  soundcloud       :
+#  stackoverflow    : # http://stackoverflow.com/users/123456/username
+#  steam            :
+#  tumblr           :
+#  twitter          : 
+#  vine             :
+#  weibo            :
+#  xing             :
+#  youtube          :
+#  wikipedia        : 
 
 
 # Reading Files
