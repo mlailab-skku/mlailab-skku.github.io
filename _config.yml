@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lantao Yu"
+title                    : "Joon Hee Choi"
 title_separator          : "-"
-name                     : &name "Lantao Yu"
-description              : &description "Ph.D. student, Computer Science Department, Stanford University"
+name                     : &name "Joon Hee Choi"
+description              : &description "Assistant Professor, Department of Software, Sungkyunkwan University"
 url                      : https://mlailab-skku.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mlailab-skku/mlailab-skku.github.io"
