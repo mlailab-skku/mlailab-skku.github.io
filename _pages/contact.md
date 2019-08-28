@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
+Department of Software, Sungkyunkwan University<br>
+2066, Seobu-ro, Jangan-gu, Suwon-si, Gyeonggi-do, Korea<br>
+Email: jhchoi2019 [at] skku.edu
 
