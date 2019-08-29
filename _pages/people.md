@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p>
-  <large><b>Group Leader</b></large> <br>
-  <medium><b>Joon Hee Choi</b></medium> <br>
+  <b>Group Leader</b> <br>
+  <b>Joon Hee Choi</b> <br>
 </p>
 
