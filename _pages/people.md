@@ -28,12 +28,4 @@ Sungkyunkwan University <br> <br>
 
 </p>
 
-hr { 
-  display: block;
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
-  margin-left: auto;
-  margin-right: auto;
-  border-style: inset;
-  border-width: 1px;
-}
+<hr size="6" width="70%" align="center" color="gray">
