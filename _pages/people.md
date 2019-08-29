@@ -26,6 +26,8 @@ Sungkyunkwan University <br> <br>
 - Image Processing <br>
 - Computer Vision
 
+</p>
+
 hr { 
   display: block;
   margin-top: 0.5em;
@@ -35,5 +37,3 @@ hr {
   border-style: inset;
   border-width: 1px;
 }
-</p>
-
