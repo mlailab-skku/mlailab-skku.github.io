@@ -10,7 +10,7 @@ author_profile: true
 <i>IEEE Transactions on Image Processing (TIP)</i>, 28(8), pp. 4016-4031, Aug. 2019.
 
 <b>[Image Reconstruction for Quanta Image Sensors Using Deep Neural Networks](https://ieeexplore.ieee.org/document/8461685)</b> <br>
-<b>Joon Hee Choi</b>, Omar Elgendy and Stanley Chan.
+<b>Joon Hee Choi</b>, Omar Elgendy and Stanley Chan.   
 <i>International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</i>, pp 6543–6547, 2018.
 
 <b>[A Super-Resolution and Fusion Approach to Enhancing Hyperspectral Images](http://www.mdpi.com/2072-4292/10/9/1416)</b> <br>
