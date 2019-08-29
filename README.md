@@ -1,1 +1,1 @@
-[Welcome to my homepage!](https://mlailab-skku.github.io/)
+[Welcome to my homepage!](https://mllab-skku.github.io/)
