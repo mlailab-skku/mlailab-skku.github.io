@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 {% include base_path %}
+<br>
 
-[Syllabus](http://lantaoyu.github.io/algorithm/syllabus.pdf)
+<b>Syllabus</b>: [pdf](http://mllab-skku.github.io/algorithm/syllabus.pdf)
 
-Week 1 [Introduction, Insertion Sort, Merge Sort](http://lantaoyu.github.io/algorithm/lecture1&2.pdf)
+Week 1 : Introduction, Insertion Sort, Merge Sort [slides](http://mllab-skku.github.io/algorithm/week1.pdf)
+Week 2 : Recurrences, Divide-and-Conquer [slides](http://mllab-skku.github.io/algorithm/week2.pdf)
