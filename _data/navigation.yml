@@ -10,7 +10,7 @@ main:
   #   url: /awards/
 
   - title: "People"
-    url: /talks/    
+    url: /people/    
 
   - title: "Publications"
     url: /publications/
