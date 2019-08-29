@@ -28,4 +28,4 @@ Sungkyunkwan University <br> <br>
 
 </p>
 
-<hr size="4" width="90%" align="center" color="gray">
+<hr size="3" width="90%" align="center" color="gray">
