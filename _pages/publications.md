@@ -17,7 +17,7 @@ author_profile: true
 Chiman Kwan, <b>Joon Hee Choi</b>, Stanley Chan, Jin Zhou and Bence Budavari.   
 <i>Remote Sensing</i>, 10(9), 1416, 2018.
 
-<b>[Resolution Enhancement for Hyperspectral Images: A Super-Resolution and Fusion Approach](https://ieeexplore.ieee.org/document/7953344)<\b> <br>
+<b>[Resolution Enhancement for Hyperspectral Images: A Super-Resolution and Fusion Approach](https://ieeexplore.ieee.org/document/7953344)</b> <br>
 Chiman Kwan, <b>Joon Hee Choi</b>, Stanley Chan, Jin Zhou and Bence Budavari.   
 <i>International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</i>, pp 6180–6184, 2017.
 
@@ -25,7 +25,7 @@ Chiman Kwan, <b>Joon Hee Choi</b>, Stanley Chan, Jin Zhou and Bence Budavari.
 Chien-Sheng Liao, <b>Joon Hee Choi</b>, Delong Zhang, Stanley H. Chan and Ji-Xin Cheng.   
 <i>Journal of Physical Chemistry C</i>, 119 (33), pp 19397–19403, 2015.
 
-<b>[Collaborative Filtering Approach to Real-Time Hand Pose Estimation](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Choi_A_Collaborative_Filtering_ICCV_2015_paper.pdf)<\b> <br>
+<b>[Collaborative Filtering Approach to Real-Time Hand Pose Estimation](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Choi_A_Collaborative_Filtering_ICCV_2015_paper.pdf)</b> <br>
 Chiho Choi, Ayan T. Sinha, <b>Joon Hee Choi</b>, Sujin Jang and Karthik Ramani.   
 <i>International Conference on Computer Vision (ICCV)</i>, pp 2336–2344, 2015.
 
