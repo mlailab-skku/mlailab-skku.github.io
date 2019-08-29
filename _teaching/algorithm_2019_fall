@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Algorithm (2019 fall)"
+permalink: /algorithm_2019_fall/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.algorithm reversed %}
+  {% include archive-single.html %}
+{% endfor %}
