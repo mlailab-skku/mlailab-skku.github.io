@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About MLAI Lab"
+title: "About ML Lab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,8 +9,9 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://lantaoyu.github.io/files/lantaoyu_img1.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://miro.medium.com/max/848/1*M9le42saJxWlOYyYvhKtPA.jpeg" alt="Photo" style="width: 450px;"/> 
 </p>
+<p><small>from towardsdatascience.com</small></p>
 
 
 
