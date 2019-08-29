@@ -10,9 +10,8 @@ redirect_from:
 
 <p align="center">
   <img src="https://miro.medium.com/max/848/1*M9le42saJxWlOYyYvhKtPA.jpeg" alt="Photo" style="width: 450px;"/> 
+  <small>from towardsdatascience.com</small>
 </p>
-<p align="center"><small>from towardsdatascience.com</small></p>
-
 
 
 # Recent News
