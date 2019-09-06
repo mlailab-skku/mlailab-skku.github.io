@@ -18,4 +18,4 @@ redirect_from:
 Machine Learning Lab (ML Lab) focuses on the research about optimization methods for large-scale machine learning and image processing/computer vision/recommender system methods using deep neural network and machine learning. The Lab is directed by Prof. Joon Hee Choi from 2019. 
 
 # Recent News
-* September 1, 2019. Joon Hee Choi joined in the Department of Software at Sungkyunkwan University.
+* September 1, 2019. Joon Hee Choi joined the Department of Software at Sungkyunkwan University.
