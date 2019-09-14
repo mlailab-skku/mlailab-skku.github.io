@@ -19,4 +19,4 @@ author_profile: true
 
 <b>Recurrences, Divide-and-Conquer</b>: [<font color="blue">[slides]</font>](http://mllab-skku.github.io/files/algorithm_notations_recurrence_d&c.pdf) - additional slides [<font color="blue">[1]</font>](http://mllab-skku.github.io/files/algorithm_chap3&4-growth-recurrence.pdf) [<font color="blue">[2]</font>](http://mllab-skku.github.io/files/algorithm_chap4apdx-divide&conquer.pdf)
 
-<b>Quick Sort</b>: [<font color="blue">[slides]</font>](http://mllab-skku.github.io/files/algorithm_quicksort.pdf) - additional slides [<font color="blue">[1]</font>](http://mllab-skku.github.io/files/algorithm_chap3&4-growth-recurrence.pdf) [<font color="blue">[1]</font>](http://mllab-skku.github.io/files/algorithm_chap7-quicksort.pdf)
+<b>Quick Sort</b>: [<font color="blue">[slides]</font>](http://mllab-skku.github.io/files/algorithm_quicksort.pdf) - additional slides [<font color="blue">[1]</font>](http://mllab-skku.github.io/files/algorithm_chap7-quicksort.pdf)
