@@ -11,9 +11,8 @@ author_profile: true
 <b>Instructor</b>: Joon Hee Choi (Office Hour: Tuesday 14:00-15:00, 23-120) <br>
 <b>TA</b>: TBD
 
-<b>Syllabus</b>: [<font color="blue">[pdf]</font>](http://mllab-skku.github.io/files/algorithm_syllabus.pdf)
 
-<b>0. Introduction</b>: [<font color="blue">[slides]</font>](http://mllab-skku.github.io/files/algorithm_Introduction.pdf) - [<font color="blue">[Syllabus]</font>](http://mllab-skku.github.io/files/algorithm_syllabus.pdf)
+<b>0. Introduction</b>: [<font color="blue">[slides]</font>](http://mllab-skku.github.io/files/algorithm_Introduction.pdf) [<font color="blue">[Syllabus]</font>](http://mllab-skku.github.io/files/algorithm_syllabus.pdf)
 
 <b>1. Insertion Sort, Merge Sort</b>: [<font color="blue">[slides]</font>](http://mllab-skku.github.io/files/algorithm_insertion_and_merge_sort.pdf) - additional slides [<font color="blue">[1]</font>](http://mllab-skku.github.io/files/algorithm_chap1&2-start-simpleAlg.pdf)
 
