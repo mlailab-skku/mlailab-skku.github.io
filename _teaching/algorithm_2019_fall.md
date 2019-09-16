@@ -21,11 +21,11 @@ author_profile: true
 </table>
 
 
-<table border="1"; class="fixed">
-    <col width="20px" />
-    <col width="180px" />
-    <col width="80px" />
-    <col width="120px" />
+<table border="1">
+  <col width="20px" />
+  <col width="180px" />
+  <col width="80px" />
+  <col width="120px" />
   <tr>
     <th> </th>
     <th>Contents</th>
