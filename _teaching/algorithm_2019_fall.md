@@ -8,7 +8,8 @@ author_profile: true
 <head>
 <style>
 table {
-  border: 1px;
+  border-collapse: collapse;
+  border: 1px solid gray;
 } 
 
 table.a {
@@ -18,25 +19,35 @@ table.a {
 
 table.b {
   table-layout: auto;
-  width: 350px;
+  width: 400px;
 }
 </style>
 </head>
 
 {% include base_path %}
-<br>
 
 <table class="b">
   <tr>
+    <th> </th>
+    <th>Name</th>
+    <td>Office Hour</td>
+	<td>Location</td>
+  </tr>
+  <tr>
     <th>Instructor</th>
-    <td>Joon Hee Choi (Office Hour: Tuesday 14:00-15:00, 23-120)</td>
+    <td>Joon Hee Choi</td>
+	<td>Tuesday 14:00-15:00</td>
+	<td>23-120</td>
   </tr>
   <tr>
     <th>TA</th>
     <td>TBD</td>
+	<td>TBD</td>
+	<td>TBD</td>
   </tr>
 </table>
 
+<br>
 
 <table class="a">
   <tr>
