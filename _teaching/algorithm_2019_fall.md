@@ -10,12 +10,12 @@ author_profile: true
 table {
   border-collapse: collapse;
   border: 1px solid gray;
-  margin-left: auto;
-  margin-right: auto;
 } 
 
 th,td {
   border: 1px solid gray;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 table.a {
