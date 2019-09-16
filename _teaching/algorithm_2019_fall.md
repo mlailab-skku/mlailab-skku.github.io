@@ -10,16 +10,17 @@ author_profile: true
 
 <table border="0">
   <tr>
-    <td>Instructor:</td>
+    <th>Instructor</th>
     <td>Joon Hee Choi (Office Hour: Tuesday 14:00-15:00, 23-120)</td>
   </tr>
   <tr>
-    <td>TA:</td>
+    <th>TA</th>
     <td>TBD</td>
   </tr>
+</table>
 
 
-<table border="0">
+<table border="1">
   <tr>
     <th> </th>
     <th>Contents</th>
