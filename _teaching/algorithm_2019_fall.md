@@ -14,18 +14,20 @@ table {
 
 th,td {
   border: 1px solid gray;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 table.a {
   table-layout: auto;
   width: 500px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 table.b {
   table-layout: auto;
   width: 400px;
+  margin-left: auto;
+  margin-right: auto;
 }
 </style>
 </head>
