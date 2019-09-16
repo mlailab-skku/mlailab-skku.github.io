@@ -8,7 +8,6 @@ author_profile: true
 <head>
 <style>
 table {
-  border-collapse: collapse;
   border: 1px;
 } 
 
