@@ -21,7 +21,7 @@ author_profile: true
 
 <table border="0">
   <th>
-    <td></td>
+    <td> </td>
     <td>Contents</td>
 	<td>Slides</td>
 	<td>Additional Slides</td>
