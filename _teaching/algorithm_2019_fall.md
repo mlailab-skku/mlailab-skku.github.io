@@ -30,8 +30,8 @@ table.b {
   <tr>
     <th> </th>
     <th>Name</th>
-    <td>Office Hour</td>
-	<td>Location</td>
+    <th>Office Hour</th>
+	<th>Location</th>
   </tr>
   <tr>
     <th>Instructor</th>
