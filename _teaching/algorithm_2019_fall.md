@@ -9,8 +9,8 @@ author_profile: true
 <br>
 
 <table border="1">
-  <col width="120">
-  <col width="500">
+  <col width="100">
+  <col width="300">
   <tr>
     <th>Instructor</th>
     <td>Joon Hee Choi (Office Hour: Tuesday 14:00-15:00, 23-120)</td>
@@ -24,9 +24,9 @@ author_profile: true
 
 <table border="1">
   <col width="20">
-  <col width="250">
-  <col width="80">
   <col width="150">
+  <col width="80">
+  <col width="120">
   <tr>
     <th> </th>
     <th>Contents</th>
