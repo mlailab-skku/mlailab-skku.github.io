@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 <br>
 
-<table border="0">
+<table border="1">
   <tr>
     <th>Instructor</th>
     <td>Joon Hee Choi (Office Hour: Tuesday 14:00-15:00, 23-120)</td>
@@ -21,6 +21,8 @@ author_profile: true
 
 
 <table border="1">
+  <col width="100">
+  <col width="80">
   <tr>
     <th> </th>
     <th>Contents</th>
