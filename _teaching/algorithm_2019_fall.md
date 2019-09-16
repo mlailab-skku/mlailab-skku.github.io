@@ -14,6 +14,7 @@ table {
 
 th,td {
   border: 1px solid gray;
+  text-align: center
 }
 
 table.a {
@@ -32,7 +33,7 @@ table.b {
 {% include base_path %}
 <br>
 <table class="b">
-  <tr align="center">
+  <tr>
     <th> </th>
     <th>Name</th>
     <th>Office Hour</th>
