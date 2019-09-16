@@ -23,7 +23,7 @@ author_profile: true
   <tr>
     <td>0.</td>
     <td>Introduction</td>
-	<td><a href="http://mllab-skku.github.io/files/algorithm_Introduction.pdf"><font color="blue">Slides</font></a></td>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_Introduction.pdf">Slides</a></td>
 	<td><a href="http://mllab-skku.github.io/files/algorithm_syllabus.pdf"><font color="blue">Syllabus</font></a></td>
   </tr>
   <tr>
