@@ -24,8 +24,8 @@ table.b {
 </style>
 </head>
 
+<body>
 {% include base_path %}
-
 <table class="b">
   <tr>
     <th> </th>
@@ -87,3 +87,4 @@ table.b {
 	<td></td>
   </tr>
 </table>
+</body>
