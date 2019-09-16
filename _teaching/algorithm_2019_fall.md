@@ -23,8 +23,8 @@ author_profile: true
   <th>
     <td></td>
     <td>Contents</td>
-	<td><a>Slides</a></td>
-	<td><a>Additional Slides</a></td>
+	<td>Slides</td>
+	<td>Additional Slides</td>
   </th>
   <tr>
     <td>0</td>
