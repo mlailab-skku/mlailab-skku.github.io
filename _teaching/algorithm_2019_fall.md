@@ -12,6 +12,10 @@ table {
   border: 1px solid gray;
 } 
 
+th,td {
+  border: 1px solid gray;
+}
+
 table.a {
   table-layout: auto;
   width: 500px;
