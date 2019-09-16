@@ -18,12 +18,13 @@ author_profile: true
     <td>TBD</td>
   </tr>
 
+
 <table border="0">
   <tr>
     <td>0.</td>
     <td>Introduction</td>
-	<td><a href="http://mllab-skku.github.io/files/algorithm_Introduction.pdf">Slides</a></td>
-	<td>[<font color="blue">[syllabus]</font>](http://mllab-skku.github.io/files/algorithm_syllabus.pdf)</td>
+	<td><a href="http://mllab-skku.github.io/files/algorithm_Introduction.pdf"><font color="blue">Slides</font></a></td>
+	<td><a href="http://mllab-skku.github.io/files/algorithm_syllabus.pdf"><font color="blue">Syllabus</font></a></td>
   </tr>
   <tr>
     <td>1.</td>
