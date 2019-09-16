@@ -20,12 +20,12 @@ author_profile: true
 
 
 <table border="0">
-  <th>
-    <td> </td>
-    <td>Contents</td>
-	<td>Slides</td>
-	<td>Additional Slides</td>
-  </th>
+  <tr>
+    <th> </th>
+    <th>Contents</th>
+	<th>Slides</th>
+	<th>Additional Slides</th>
+  </tr>
   <tr>
     <td>0</td>
     <td>Introduction</td>
