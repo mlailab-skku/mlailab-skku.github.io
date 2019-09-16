@@ -13,12 +13,12 @@ table {
 
 table.a {
   table-layout: auto;
-  width: 400px;
+  width: 500px;
 }
 
 table.b {
   table-layout: auto;
-  width: 250px;
+  width: 350px;
 }
 </style>
 </head>
