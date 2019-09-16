@@ -8,8 +8,18 @@ author_profile: true
 {% include base_path %}
 <br>
 
-<table border="1">
-  <colgroup span="4"></colgroup>
+table.a {
+  table-layout: auto;
+  width: 300px;  
+}
+
+table.b {
+  table-layout: auto;
+  width: 150px;  
+}
+
+
+<table class="b">
   <tr>
     <th>Instructor</th>
     <td>Joon Hee Choi (Office Hour: Tuesday 14:00-15:00, 23-120)</td>
@@ -21,11 +31,7 @@ author_profile: true
 </table>
 
 
-<table border="1">
-  <col width="20px" />
-  <col width="180px" />
-  <col width="80px" />
-  <col width="120px" />
+<table class="a">
   <tr>
     <th> </th>
     <th>Contents</th>
