@@ -5,8 +5,12 @@ permalink: /algorithm/
 author_profile: true
 ---
 
-{% include base_path %}
-<br>
+<head>
+<style>
+table {
+  border-collapse: collapse;
+  border: 1px;
+} 
 
 table.a {
   table-layout: auto;
@@ -17,7 +21,11 @@ table.b {
   table-layout: auto;
   width: 150px;  
 }
+</style>
+</head>
 
+{% include base_path %}
+<br>
 
 <table class="b">
   <tr>
