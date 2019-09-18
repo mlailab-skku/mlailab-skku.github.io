@@ -37,19 +37,19 @@ table.b {
     <th> </th>
     <th>Name</th>
     <th>Office Hour</th>
-	<th>Location</th>
+	<th>Email</th>
   </tr>
   <tr>
     <th>Instructor</th>
     <td>Joon Hee Choi</td>
-	<td>Tuesday 14:00-15:00</td>
-	<td>23-120</td>
+	<td>By Appointment</td>
+	<td>jhchoi2019@skku.edu</td>
   </tr>
   <tr>
     <th>TA</th>
-    <td>TBD</td>
-	<td>TBD</td>
-	<td>TBD</td>
+    <td>Junsung Cho</td>
+	<td>By Appointment</td>
+	<td>js.cho@skku.edu</td>
   </tr>
 </table>
 <br>
