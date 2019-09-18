@@ -24,7 +24,7 @@ table.a {
 
 table.b {
   table-layout: auto;
-  width: 400px;
+  width: 500px;
 }
 </style>
 </head>
