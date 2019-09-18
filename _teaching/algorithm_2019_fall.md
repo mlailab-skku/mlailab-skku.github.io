@@ -86,8 +86,8 @@ table.b {
   </tr>
   <tr>
     <td>4</td>
-    <td>Other Sortings</td>
-	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_other_sortings.pdf">[1]</a></td>
+    <td>Other Sortings, Applications of Sorting</td>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_other_sortings.pdf">[1]</a> <a href="http://mllab-skku.github.io/files/algorithm_sorting_applications.pdf">[2]</a></td>
 	<td></td>
   </tr>
 </table>
