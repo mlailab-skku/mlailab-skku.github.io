@@ -92,7 +92,6 @@ table.b {
   </tr>
 </table>
 
-</table>
 <br>
 <table class="a">
   <tr>
