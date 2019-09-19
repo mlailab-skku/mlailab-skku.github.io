@@ -91,4 +91,19 @@ table.b {
 	<td></td>
   </tr>
 </table>
+
+</table>
+<br>
+<table class="a">
+  <tr>
+    <th> </th>
+    <th>Contents</th>
+	<th>Homework</th>
+  </tr>
+  <tr>
+    <td>Homework 1</td>
+    <td>Due: 9/26 (Thursday) at 23:59 (Late Penalty: 10%/day until 9/29) <br> Submit two files: <br>- Problems 1-3: Submit a typed document or a scanned document. <br>- Problem 4: Submit your C/C++/Java/Python source code. <br>If you have any questions, please email <a href = "mailto: choijh2019@skku.edu">Professor</a> or <a href = "mailto: js.cho@skku.edu">TA</a>.</td>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/homework1.pdf">[Homework 1]</a></td>
+  </tr>
+</table>
 </body>
