@@ -102,7 +102,7 @@ table.b {
   </tr>
   <tr>
     <td>Homework 1</td>
-    <td>The deadline of this homework is 9/26 (Thursday) 23:59. The late penalty is 10% per day until 9/29. Submit two files: Submit a typed document or a scanned document for Problems 1-3; Submit your C/C++/Java/Python source code for Problem 4. If you have any questions, please email <a href = "mailto: choijh2019@skku.edu">Professor</a> or <a href = "mailto: js.cho@skku.edu">TA</a>.</td>
+    <td><p align="left">The deadline of this homework is 9/26 (Thursday) 23:59. The late penalty is 10% per day until 9/29. Submit two files: Submit a typed document or a scanned document for Problems 1-3; Submit your C/C++/Java/Python source code for Problem 4. If you have any questions, please email <a href = "mailto: choijh2019@skku.edu">Professor</a> or <a href = "mailto: js.cho@skku.edu">TA</a>.</p></td>
 	<td style="color:blue"><a href="http://mllab-skku.github.io/files/homework1.pdf">[Homework 1]</a></td>
   </tr>
 </table>
