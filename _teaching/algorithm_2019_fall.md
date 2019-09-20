@@ -95,14 +95,12 @@ table.b {
 <br>
 <table class="a">
   <tr>
-    <th> </th>
-    <th>Due Date</th>
 	<th>Homework</th>
+    <th>Due Date</th>
   </tr>
   <tr>
-    <th>Homework 1</th>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/homework1.pdf">[Homework 1]</a></td>
     <th>9/26 (Thursday) 23:59</th>
-	<td style="color:blue"><a href="http://mllab-skku.github.io/files/homework1.pdf">[file]</a></td>
   </tr>
 </table>
 </body>
