@@ -90,6 +90,20 @@ table.b {
 	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_other_sortings.pdf">[1]</a> <a href="http://mllab-skku.github.io/files/algorithm_sorting_applications.pdf">[2]</a></td>
 	<td></td>
   </tr>
+  <tr>
+    <td>5</td>
+    <td>Hash Table</td>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_hashtable.pdf">[1]</a></td>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_chap11-hash-table.pdf">[1]</a></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Binary Search Tree</td>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_BST.pdf">[1]</a></td>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_chap12-BST.pdf">[1]</a></td>
+	<td></td>
+  </tr>
 </table>
 
 <br>
