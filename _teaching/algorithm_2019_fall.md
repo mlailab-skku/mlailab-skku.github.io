@@ -99,7 +99,7 @@ table.b {
   <tr>
     <td>6</td>
     <td>Binary Search Tree</td>
-	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_BST.pdf">[1]</a></td>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_BST.pdf">[1]</a> <a href="http://mllab-skku.github.io/files/algorithm_BST_applications.pdf">[2]</a></td>
 	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_chap12-BST.pdf">[1]</a></td>
   </tr>
 </table>
