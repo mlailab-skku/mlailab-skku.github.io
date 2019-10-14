@@ -102,6 +102,12 @@ table.b {
 	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_BST.pdf">[1]</a> <a href="http://mllab-skku.github.io/files/algorithm_BST_applications.pdf">[2]</a></td>
 	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_chap12-BST.pdf">[1]</a></td>
   </tr>
+  <tr>
+    <td>7</td>
+    <td>Red Black Tree</td>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_red_black_tree.pdf">[1]</a></td>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_chap13-red-black.pdf">[1]</a></td>
+  </tr>
 </table>
 
 <br>
@@ -113,6 +119,10 @@ table.b {
   <tr>
 	<td style="color:blue"><a href="http://mllab-skku.github.io/files/homework1.pdf">[Homework 1]</a></td>
     <th>9/26 (Thursday) 23:59</th>
+  </tr>
+  <tr>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/homework2.pdf">[Homework 2]</a> <td style="color:blue"><a href="http://mllab-skku.github.io/files/hw2_input1.txt">[I1]</a> <td style="color:blue"><a href="http://mllab-skku.github.io/files/hw2_input2.txt">[I2]</a> <td style="color:blue"><a href="http://mllab-skku.github.io/files/hw2_input3.txt">[I3]</a> <td style="color:blue"><a href="http://mllab-skku.github.io/files/hw2_input4.txt">[I4]</a> <td style="color:blue"><a href="http://mllab-skku.github.io/files/hw2_input5.txt">[I5]</a> <td style="color:blue"><a href="http://mllab-skku.github.io/files/hw2_output1.txt">[O1]</a> <td style="color:blue"><a href="http://mllab-skku.github.io/files/hw2_output5.txt">[O5]</a> </td>
+    <th>10/17 (Thursday) 23:59</th>
   </tr>
 </table>
 </body>
