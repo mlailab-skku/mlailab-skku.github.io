@@ -130,7 +130,7 @@ table.b {
 	<td style="color:blue"><a href="http://mllab-skku.github.io/files/homework2.pdf">[Homework 2]</a> <a href="http://mllab-skku.github.io/files/hw2_input1.txt">[I1]</a> <a href="http://mllab-skku.github.io/files/hw2_input2.txt">[I2]</a> <a href="http://mllab-skku.github.io/files/hw2_input3.txt">[I3]</a> <a href="http://mllab-skku.github.io/files/hw2_input4.txt">[I4]</a> <a href="http://mllab-skku.github.io/files/hw2_input5.txt">[I5]</a> <a href="http://mllab-skku.github.io/files/hw2_output1.txt">[O1]</a> <a href="http://mllab-skku.github.io/files/hw2_output5.txt">[O5]</a> </td>
     <th>10/17 (Thursday) 23:59</th>
   </tr><tr>
-	<td style="color:blue"> Solve Examples 6-10 in RED-BLACK Tree slides. Write how you get the answers in the slides.</td>
+	<td> Solve Examples 6-10 in RED-BLACK Tree slides. Write how you get the answers in the slides.</td>
     <th>11/07 (Thursday) 16:15</th>
   </tr>
 </table>
