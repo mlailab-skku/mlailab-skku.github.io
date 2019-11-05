@@ -19,7 +19,7 @@ th,td {
 
 table.a {
   table-layout: auto;
-  width: 500px;
+  width: 600px;
 }
 
 table.b {
