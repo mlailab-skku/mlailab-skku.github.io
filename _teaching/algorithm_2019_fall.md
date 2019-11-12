@@ -118,7 +118,7 @@ table.b {
     <td>9</td>
     <td>Greedy Algorithm</td>
 	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_greedy_algorithm.pdf">[1]</a></td>
-	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_chap16-greedyAlgorithm.pdf">[1]</a> <a href="http://mllab-skku.github.io/files/greedy_algorithm.pptm">[ppt]</a></td>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_chap16-greedyAlgorithm.pdf">[1]</a></td>
   </tr>
   <tr>
     <td>10</td>
