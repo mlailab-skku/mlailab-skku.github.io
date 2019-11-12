@@ -114,6 +114,12 @@ table.b {
 	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_dynamic_programming_1.pdf">[1]</a> <a href="http://mllab-skku.github.io/files/algorithm_dynamic_programming_2.pdf">[2]</a> <a href="http://mllab-skku.github.io/files/algorithm_dynamic_programming_3.pdf">[3]</a> </td>
 	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_chap15-dynamicProg.pdf">[1]</a></td>
   </tr>
+  <tr>
+    <td>9</td>
+    <td>Greedy Algorithm</td>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_greedy_algorithm.pdf">[1]</a> <a href="http://mllab-skku.github.io/files/greedy_algorithm.pptm">[ppt]</a></td>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_chap16-greedyAlgorithm.pdf">[1]</a></td>
+  </tr>
 </table>
 
 <br>
