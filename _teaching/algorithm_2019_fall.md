@@ -117,14 +117,14 @@ table.b {
   <tr>
     <td>9</td>
     <td>Greedy Algorithm</td>
-	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_greedy_algorithm.pdf">[1]</a> <a href="http://mllab-skku.github.io/files/greedy_algorithm.pptm">[ppt]</a></td>
-	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_chap16-greedyAlgorithm.pdf">[1]</a></td>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_greedy_algorithm.pdf">[1]</a></td>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_chap16-greedyAlgorithm.pdf">[1]</a> <a href="http://mllab-skku.github.io/files/greedy_algorithm.pptm">[ppt]</a></td>
   </tr>
   <tr>
     <td>10</td>
     <td>Graph Algorithm</td>
-	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_graph_algorithm_1.pdf">[1]</a> <a href="http://mllab-skku.github.io/files/algorithm_graph_algorithm_2.pdf">[2]</a> <a href="http://mllab-skku.github.io/files/graph_algorithm_1.pptm">[ppt1]</a> <a href="http://mllab-skku.github.io/files/graph_algorithm_2.pptm">[ppt2]</a></td>
-	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_chap22-graphAlgorithms.pdf">[1]</a></td>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_graph_algorithm_1.pdf">[1]</a> <a href="http://mllab-skku.github.io/files/algorithm_graph_algorithm_2.pdf">[2]</a></td>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_chap22-graphAlgorithms.pdf">[1]</a> <a href="http://mllab-skku.github.io/files/graph_algorithm_1.pptm">[ppt1]</a> <a href="http://mllab-skku.github.io/files/graph_algorithm_2.pptm">[ppt2]</a></td>
   </tr>
 </table>
 
