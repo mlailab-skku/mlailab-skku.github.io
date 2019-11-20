@@ -6,8 +6,8 @@ author_profile: true
 
 
 <b>[Optimal Combination of Image Denoisers](https://ieeexplore.ieee.org/document/8663454)</b> <br>
-<b>Joon Hee Choi</b>, Omar Elgendy and Stanley Chan. <a href="http://mllab-skku.github.io/files/talk.pdf">[1]</a>
-<i>IEEE Transactions on Image Processing</i> (<b>TIP</b>), 28(8), pp. 4016-4031, Aug. 2019.
+<b>Joon Hee Choi</b>, Omar Elgendy and Stanley Chan.
+<i>IEEE Transactions on Image Processing</i> (<b>TIP</b>), 28(8), pp. 4016-4031, Aug. 2019. <a href="http://mllab-skku.github.io/files/talk.pptx">[1]</a>
 
 <b>[Image Reconstruction for Quanta Image Sensors Using Deep Neural Networks](https://ieeexplore.ieee.org/document/8461685)</b> <br>
 <b>Joon Hee Choi</b>, Omar Elgendy and Stanley Chan.   
