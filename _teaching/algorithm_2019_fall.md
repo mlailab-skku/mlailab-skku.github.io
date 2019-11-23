@@ -136,6 +136,7 @@ table.b {
     <td>12</td>
     <td>Backtracking</td>
 	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_backtracking.pdf">[1]</a></td>
+	<td></td>
   </tr>
   <tr>
     <td>13</td>
