@@ -124,25 +124,24 @@ table.b {
     <td>10</td>
     <td>Graph Algorithm</td>
 	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_graph_algorithm_1.pdf">[1]</a> <a href="http://mllab-skku.github.io/files/algorithm_graph_algorithm_2.pdf">[2]</a></td>
-	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_chap22-graphAlgorithms.pdf">[1]</a> </td>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_chap22-graphAlgorithms.pdf">[1]</a></td>
   </tr>
   <tr>
     <td>11</td>
     <td>Minimum Spanning Tree</td>
 	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_minimum_spanning_tree.pdf">[1]</a></td>
-	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_chap23-MST.pdf">[1]</a> <a href="http://mllab-skku.github.io/files/minimum_spanning_tree.pptm">[10]</a></td>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_chap23-MST.pdf">[1]</a></td>
   </tr>
   <tr>
     <td>12</td>
     <td>Backtracking</td>
 	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_backtracking.pdf">[1]</a></td>
-	<td style="color:blue"><a href="http://mllab-skku.github.io/files/backtracking.pptm">[10]</a></td>
   </tr>
   <tr>
     <td>13</td>
     <td>Shortest Path</td>
-	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_shortest_path_1.pdf">[1]</a></td>
-	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_chap24a-shortestPath_1.pdf">[1]</a> <a href="http://mllab-skku.github.io/files/algorithm_chap24b-shortestPath_2.pdf">[2]</a> <a href="http://mllab-skku.github.io/files/shortest_path_1.pptm">[10]</a></td>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_shortest_path_1.pdf">[1]</a> <a href="http://mllab-skku.github.io/files/algorithm_shortest_path_2.pdf">[1]</a></td>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_chap24a-shortestPath_1.pdf">[1]</a> <a href="http://mllab-skku.github.io/files/algorithm_chap24b-shortestPath_2.pdf">[2]</a> <a href="http://mllab-skku.github.io/files/shortest_path_1.pptm">[10]</a> <a href="http://mllab-skku.github.io/files/shortest_path_2.pptm">[20]</a></td>
   </tr>
 </table>
 
@@ -163,6 +162,10 @@ table.b {
   <tr>
 	<td> Solve Examples 6-10 in RED-BLACK Tree slides. <br /> Write how you get the answers in the slides.</td>
     <th>11/07 (Thursday) 16:15</th>
+  </tr>
+  <tr>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/homework4.pdf">[Homework 4]</a></td>
+    <th>12/01 (Thursday) 23:59</th>
   </tr>
 </table>
 </body>
