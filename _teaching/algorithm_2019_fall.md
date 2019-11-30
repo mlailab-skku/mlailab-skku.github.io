@@ -178,7 +178,7 @@ table.b {
   </tr>
   <tr>
 	<td style="color:blue"><a href="http://mllab-skku.github.io/files/homework4.pdf">[Homework 4]</a></td>
-    <th>12/01 (Thursday) 23:59</th>
+    <th>12/05 (Thursday) 23:59</th>
   </tr>
 </table>
 </body>
