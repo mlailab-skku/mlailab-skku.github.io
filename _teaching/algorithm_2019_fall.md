@@ -147,7 +147,7 @@ table.b {
   <tr>
     <td>14</td>
     <td>Mathematical Algorithms</td>
-	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_mathematical_algorithms.pdf">[1]</a> <a href="http://mllab-skku.github.io/files/mathematical_algorithms.pptm">[10]</a></td>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_mathematical_algorithms.pdf">[1]</a></td>
 	<td></td>
   </tr>
   <tr>
