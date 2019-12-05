@@ -153,7 +153,7 @@ table.b {
   <tr>
     <td>15</td>
     <td>NP Completeness</td>
-	<td style="color:blue"><a href="http://mllab-skku.github.io/files/aalgorithm_npc_and_reduction.pdf">[1]</a></td>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_npc_and_reduction.pdf">[1]</a></td>
 	<td></td>
   </tr>
 </table>
