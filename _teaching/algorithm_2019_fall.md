@@ -156,6 +156,12 @@ table.b {
 	<td style="color:blue"><a href="http://mllab-skku.github.io/files/algorithm_npc_and_reduction.pdf">[1]</a></td>
 	<td></td>
   </tr>
+  <tr>
+    <td>16</td>
+    <td>Summary</td>
+	<td style="color:blue"><a href="http://mllab-skku.github.io/files/summary1.pdf">[1]</a> <a href="http://mllab-skku.github.io/files/summary2.pdf">[2]</a></td>
+	<td><a href="http://mllab-skku.github.io/files/summary1.pptm">[1]</a> <a href="http://mllab-skku.github.io/files/summary2.pptm">[2]</a></td>
+  </tr>
 </table>
 
 <br>
