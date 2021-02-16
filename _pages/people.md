@@ -8,7 +8,9 @@ author_profile: true
 <p>
 <br> <b> <x-large>Group Leader</x-large> </b> <br> <br>
 <b>Joon Hee Choi</b> <br>
-Assistant professor, 
+Assistant professor, <a href=https://cs.skku.edu/ko/>Department of Computer Science and Engineering</a> <br>
+Assistant professor, <a href=https://ai.skku.edu/ai/index.do>Department of Artificial Intelligence</a> <br>
+Assistant professor, <a href=https://skb.skku.edu/sic/index.do>Program for Social Innovation Convergence</a> <br>
 Sungkyunkwan University <br>
 Email: <a href="mailto:jhchoi2019@skku.edu">jhchoi2019 [at] skku.edu</a> <br><br>
 
