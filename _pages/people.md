@@ -38,22 +38,22 @@ Email: <a href="mailto:jhchoi2019@skku.edu">jhchoi2019 [at] skku.edu</a> <br><br
 <b>Kyu Min Yoo</b> <br>
 MS-PhD Student, Department of Artificial Intelligence <br>
 Sungkyunkwan University <br>
-Email: justice.yoo [at] gmail.com <br><br>
+Email: <a href="mailto:justice.yoo@gmail.com">justice.yoo [at] gmail.com</a> <br><br>
 
 <b>Jong Min Lee</b> <br>
 MS Student, Department of Artificial Intelligence <br>
 Sungkyunkwan University <br>
-Email: hary00078 [at] naver.com <br><br>
+Email: <a href="mailto:hary00078@naver.com">hary00078 [at] naver.com</a> <br><br>
 
 <b>Min Gyu Choi</b> <br>
 MS Student, Department of Artificial Intelligence <br>
 Sungkyunkwan University <br>
-Email: mingyuu26 [at] gmail.com <br><br>
+Email: <a href="mailto:mingyuu26@gmail.com">mingyuu26 [at] gmail.com</a> <br><br>
 
 <b>Hyun Seung Kim</b> <br>
 MS Student, Department of Artificial Intelligence <br>
 Sungkyunkwan University <br>
-Email: kimhs1200 [at] naver.com  <br><br>
+Email: <a href="mailto:kimhs1200@naver.com">kimhs1200 [at] naver.com</a>  <br><br>
 </p>
 
 <hr size="3" width="90%" align="center" color="gray">
@@ -62,6 +62,6 @@ Email: kimhs1200 [at] naver.com  <br><br>
 <b>Ji Hee Kim</b> <br>
 BS Student, Department of Computer Science and Engineering <br>
 Sungkyunkwan University <br>
-Email: mii2026 [at] naver.com <br><br>
+Email: <a href="mailto:mii2026@naver.com">mii2026 [at] naver.com</a> <br><br>
 </p>
 
