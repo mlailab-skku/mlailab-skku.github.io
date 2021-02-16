@@ -15,7 +15,9 @@ Sungkyunkwan University <br>
 Email: <a href="mailto:jhchoi2019@skku.edu">jhchoi2019 [at] skku.edu</a> <br><br>
 
 <i>Education</i> <br>
-- Ph.D. Purdue University (2018); M.S. Purdue University (2014); B.S. Sogang University (2004) <br> <br>
+- Ph.D. Purdue University (2018) <br>
+- M.S. Purdue University (2014) <br>
+- B.S. Sogang University (2004) <br> <br>
 
 <i>Employments</i> <br>
 - Sungkyunkwan University (2019-present) <br>
