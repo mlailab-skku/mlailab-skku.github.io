@@ -58,7 +58,7 @@ Email: <a href="mailto:kimhs1200@naver.com">kimhs1200 [at] naver.com</a>  <br><b
 
 <hr size="3" width="90%" align="center" color="gray">
 <p>
-<br> <b> <x-large>MS/PhD Students</x-large> </b> <br> <br>
+<br> <b> <x-large>BS Students</x-large> </b> <br> <br>
 <b>Ji Hee Kim</b> <br>
 BS Student, Department of Computer Science and Engineering <br>
 Sungkyunkwan University <br>
