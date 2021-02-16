@@ -9,7 +9,8 @@ author_profile: true
 <br> <b> <x-large>Group Leader</x-large> </b> <br> <br>
 <b>Joon Hee Choi</b> <br>
 Assistant professor, Department of Software <br>
-Sungkyunkwan University <br> <br>
+Sungkyunkwan University <br>
+Email: jhchoi2019 [at] skku.edu <br><br>
 
 <i>Education</i> <br>
 - Ph.D. Purdue University (2018); M.S. Purdue University (2014); B.S. Sogang University (2004) <br> <br>
@@ -34,19 +35,23 @@ Sungkyunkwan University <br> <br>
 <br> <b> <x-large>MS/PhD Students</x-large> </b> <br> <br>
 <b>Kyu Min Yoo</b> <br>
 MS-PhD Student, Department of Artificial Intelligence <br>
-Sungkyunkwan University <br> <br>
+Sungkyunkwan University <br>
+Email: justice.yoo [at] gmail.com <br><br>
 
 <b>Jong Min Lee</b> <br>
 MS Student, Department of Artificial Intelligence <br>
-Sungkyunkwan University <br> <br>
+Sungkyunkwan University <br>
+Email: hary00078 [at] naver.com <br><br>
 
 <b>Min Gyu Choi</b> <br>
 MS Student, Department of Artificial Intelligence <br>
-Sungkyunkwan University <br> <br>
+Sungkyunkwan University <br>
+Email: mingyuu26 [at] gmail.com <br><br>
 
 <b>Hyun Seung Kim</b> <br>
 MS Student, Department of Artificial Intelligence <br>
-Sungkyunkwan University <br> <br>
+Sungkyunkwan University <br>
+Email: kimhs1200 [at] naver.com  <br><br>
 </p>
 
 <hr size="3" width="90%" align="center" color="gray">
@@ -54,6 +59,7 @@ Sungkyunkwan University <br> <br>
 <br> <b> <x-large>MS/PhD Students</x-large> </b> <br> <br>
 <b>Ji Hee Kim</b> <br>
 BS Student, Department of Computer Science and Engineering <br>
-Sungkyunkwan University <br> <br>
+Sungkyunkwan University <br>
+Email: mii2026 [at] naver.com <br><br>
 </p>
 
