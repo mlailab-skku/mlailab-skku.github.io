@@ -19,4 +19,4 @@ Machine Learning Lab (ML Lab) focuses on the research about optimization methods
 
 # Recent News
 * October, 2020. a paper was accepted for Corl 2020.
-* September, 2019. Joon Hee Choi joined the Department of Software at Sungkyunkwan University.
+* September, 2019. Joon Hee Choi joined the Department of Computer Science and Engineering at Sungkyunkwan University.
