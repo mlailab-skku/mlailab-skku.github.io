@@ -220,21 +220,21 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _people
   - scope:
       path: ""
-      type: portfolio
+      type: people
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _contact
   - scope:
       path: ""
-      type: talks
+      type: contac
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
       
