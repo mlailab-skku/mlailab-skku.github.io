@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>[DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning](https://arxiv.org/pdf/2011.08436.pdf)</b> <br>
+<b>[Shared Cross-Modal Trajectory Prediction for Autonomous Driving](https://arxiv.org/pdf/2011.08436.pdf)</b> <br>
 Chiho Choi\*, <b>Joon Hee Choi</b>\*, Jia Jiachen Li and Srikanth Malla.
 <i>(Submitted)</i> (<b></b>), 2021 (\* indicates equal contribution).
 
