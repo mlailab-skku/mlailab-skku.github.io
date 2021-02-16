@@ -29,3 +29,31 @@ Sungkyunkwan University <br> <br>
 </p>
 
 <hr size="3" width="90%" align="center" color="gray">
+
+<p>
+<br> <b> <x-large>MS/PhD Students</x-large> </b> <br> <br>
+<b>Kyu Min Yoo</b> <br>
+MS-PhD Student, Department of Artificial Intelligence <br>
+Sungkyunkwan University <br> <br>
+
+<b>Jong Min Lee</b> <br>
+MS Student, Department of Artificial Intelligence <br>
+Sungkyunkwan University <br> <br>
+
+<b>Min Gyu Choi</b> <br>
+MS Student, Department of Artificial Intelligence <br>
+Sungkyunkwan University <br> <br>
+
+<b>Hyun Seung Kim</b> <br>
+MS Student, Department of Artificial Intelligence <br>
+Sungkyunkwan University <br> <br>
+</p>
+
+<hr size="3" width="90%" align="center" color="gray">
+<p>
+<br> <b> <x-large>MS/PhD Students</x-large> </b> <br> <br>
+<b>Ji Hee Kim</b> <br>
+BS Student, Department of Computer Science and Engineering <br>
+Sungkyunkwan University <br> <br>
+</p>
+
