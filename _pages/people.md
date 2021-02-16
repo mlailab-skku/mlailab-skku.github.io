@@ -8,11 +8,11 @@ author_profile: true
 <p>
 <br> <b> <x-large>Group Leader</x-large> </b> <br> <br>
 <b>Joon Hee Choi</b> <br>
-Assistant professor, Department of Computer Science and Engineering <br>
-Assistant professor, Department of Artificial Intelligence <br>
-Assistant professor, Program for Social Innovation Convergence <br>
+Assistant professor, [Department of Computer Science and Engineering](https://cs.skku.edu/ko/) <br>
+Assistant professor, [Department of Artificial Intelligence](https://ai.skku.edu/ai/index.do) <br>
+Assistant professor, [Program for Social Innovation Convergence](https://skb.skku.edu/sic/index.do) <br>
 Sungkyunkwan University <br>
-Email: jhchoi2019 [at] skku.edu <br><br>
+Email: [jhchoi2019 [at] skku.edu](jhchoi2019@skku.edu) <br><br>
 
 <i>Education</i> <br>
 - Ph.D. Purdue University (2018); M.S. Purdue University (2014); B.S. Sogang University (2004) <br> <br>
