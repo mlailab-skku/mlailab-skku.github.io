@@ -24,12 +24,6 @@ Email: <a href="mailto:jhchoi2019@skku.edu">jhchoi2019 [at] skku.edu</a> <br><br
 - Pacific Northwest National Lab. (2016 summer) <br>
 - Samsung Electronics Co. (2003-2012) <br> <br>
 
-<i>Research Interests</i> <br>
-- Machine Learning <br>
-- Artificial Intelligence <br>
-- Image Processing <br>
-- Computer Vision
-
 </p>
 
 <hr size="3" width="90%" align="center" color="gray">
