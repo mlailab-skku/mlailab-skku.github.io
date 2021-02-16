@@ -5,15 +5,15 @@ author_profile: true
 ---
 
 <b>[Shared Cross-Modal Trajectory Prediction for Autonomous Driving](https://arxiv.org/pdf/2011.08436.pdf)</b> <br>
-Chiho Choi\*, <b>Joon Hee Choi</b>\*, Jia Jiachen Li and Srikanth Malla.
+Chiho Choi\*, <b>Joon Hee Choi</b>\*, Jia Jiachen Li and Srikanth Malla. <br>
 <i>(Submitted)</i>, 2021 (\* indicates equal contribution).
 
 <b>[DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning](https://corlconf.github.io/paper_18/)</b> <br>
-Chiho Choi, Abhishek Patil, Srikanth Malla and <b>Joon Hee Choi</b>.
+Chiho Choi, Abhishek Patil, Srikanth Malla and <b>Joon Hee Choi</b>. <br>
 <i>Conference on Robot Learning</i> (<b>CoRL</b>), Nov. 2020.
 
 <b>[Optimal Combination of Image Denoisers](https://ieeexplore.ieee.org/document/8663454)</b> <br>
-<b>Joon Hee Choi</b>, Omar Elgendy and Stanley Chan.
+<b>Joon Hee Choi</b>, Omar Elgendy and Stanley Chan. <br>
 <i>IEEE Transactions on Image Processing</i> (<b>TIP</b>), 28(8), pp. 4016-4031, Aug. 2019.
 
 <b>[Reduce latency for real-time single-image super resolution application significance](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Cai_NTIRE_2019_Challenge_on_Real_Image_Super-Resolution_Methods_and_Results_CVPRW_2019_paper.html)</b> <br>
