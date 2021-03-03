@@ -6,7 +6,7 @@ author_profile: true
 
 <b>[Shared Cross-Modal Trajectory Prediction for Autonomous Driving](https://arxiv.org/pdf/2011.08436.pdf)</b> <br>
 Chiho Choi\*, <b>Joon Hee Choi</b>\*, Jia Jiachen Li and Srikanth Malla. <br>
-<i>(Accepted)</i>, Conference on Computer Vision and Pattern Recognition, 2021 (\* indicates equal contribution).
+<i>(Accepted)</i>, <i>Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR</b>), 2021 (\* indicates equal contribution).
 
 <b>[DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning](https://corlconf.github.io/paper_18/)</b> <br>
 Chiho Choi, Abhishek Patil, Srikanth Malla and <b>Joon Hee Choi</b>. <br>
