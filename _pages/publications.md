@@ -12,13 +12,13 @@ Jongmin Lee, Mingyu Choi and <b>Joon Hee Choi</b>. <br>
 \*Srikanth Malla, \*Chiho Choi, \*<b>Joon Hee Choi</b>, Isht Dwivedi and Jiachen Li. <br>
 <i>submitted</i>, 2021 (\* Co-first author).
 
+<b>[Shared Cross-Modal Trajectory Prediction for Autonomous Driving](https://openaccess.thecvf.com/content/CVPR2021/papers/Choi_Shared_Cross-Modal_Trajectory_Prediction_for_Autonomous_Driving_CVPR_2021_paper.pdf)</b> <br>
+\*Chiho Choi, \*<b>Joon Hee Choi</b>, Jiachen Li and Srikanth Malla. <br>
+<i>Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR</b>), 2021  (<b>Oral</b>) (\* Co-first author).
+
 <b>[Artificial Neural Network Utilizing ACE and Self-Attention for Sequence Labeling](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002711398)</b> <br>
 Jongmin Lee and <b>Joon Hee Choi</b>. <br>
 Journal of Korean Institute of Intelligent Systems, 31(2), pp 127-135, 2021.
-
-<b>[Shared Cross-Modal Trajectory Prediction for Autonomous Driving](https://arxiv.org/pdf/2011.08436.pdf)</b> <br>
-\*Chiho Choi, \*<b>Joon Hee Choi</b>, Jiachen Li and Srikanth Malla. <br>
-<i>accepted to Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR</b>), 2021  (<b>Oral</b>) (\* Co-first author).
 
 <b>[DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning](https://corlconf.github.io/paper_18/)</b> <br>
 Chiho Choi, Abhishek Patil, Srikanth Malla and <b>Joon Hee Choi</b>. <br>
