@@ -17,7 +17,7 @@ Jongmin Lee and <b>Joon Hee Choi</b>. <br>
 Journal of Korean Institute of Intelligent Systems, 31(2), pp 127-135, 2021.
 
 <b>[Shared Cross-Modal Trajectory Prediction for Autonomous Driving](https://arxiv.org/pdf/2011.08436.pdf)</b> <br>
-\*Chiho Choi, \*<b>Joon Hee Choi</b>, Jia Jiachen Li and Srikanth Malla. <br>
+\*Chiho Choi, \*<b>Joon Hee Choi</b>, Jiachen Li and Srikanth Malla. <br>
 <i>accepted to Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR</b>), 2021  (<b>Oral</b>) (\* Co-first author).
 
 <b>[DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning](https://corlconf.github.io/paper_18/)</b> <br>
