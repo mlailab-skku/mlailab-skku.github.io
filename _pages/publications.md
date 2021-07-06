@@ -5,11 +5,11 @@ author_profile: true
 ---
 
 <b>Improving Sequence Model with Convex Combination based Self-Attention</b> <br>
-Jongmin Lee, Mingyu Choi and <b>Joon Hee Choi</b> <br>
+Jongmin Lee, Mingyu Choi and <b>Joon Hee Choi</b>. <br>
 <i>submitted</i>, 2021.
 
 <b>DRAMA: Joint Risk Localization and Reasoning in Driving Scenarios</b> <br>
-\*Srikanth Malla, \*Chiho Choi, \*<b>Joon Hee Choi</b>, Isht Dwivedi and Jiachen Li <br>
+\*Srikanth Malla, \*Chiho Choi, \*<b>Joon Hee Choi</b>, Isht Dwivedi and Jiachen Li. <br>
 <i>submitted</i>, 2021 (\* Co-first author).
 
 <b>[Artificial Neural Network Utilizing ACE and Self-Attention for Sequence Labeling](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002711398)</b> <br>
