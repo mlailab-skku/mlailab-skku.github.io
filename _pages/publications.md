@@ -4,8 +4,20 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>Improving Sequence Model with Convex Combination based Self-Attention</b> <br>
+Jongmin Lee, Mingyu Choi and <b>Joon Hee Choi</b> <br>
+<i>submitted</i>, 2021.
+
+<b>DRAMA: Joint Risk Localization and Reasoning in Driving Scenarios</b> <br>
+\*Srikanth Malla, \*Chiho Choi, \*<b>Joon Hee Choi</b>, Isht Dwivedi and Jiachen Li <br>
+<i>submitted</i>, 2021 (\* Co-first author).
+
+<b>[Artificial Neural Network Utilizing ACE and Self-Attention for Sequence Labeling](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002711398)</b> <br>
+Jongmin Lee and <b>Joon Hee Choi</b>. <br>
+Journal of Korean Institute of Intelligent Systems, 31(2), pp 127-135, 2021.
+
 <b>[Shared Cross-Modal Trajectory Prediction for Autonomous Driving](https://arxiv.org/pdf/2011.08436.pdf)</b> <br>
-\*<b>Joon Hee Choi</b>, \*Chiho Choi, Jia Jiachen Li and Srikanth Malla. <br>
+\*Chiho Choi, \*<b>Joon Hee Choi</b>, Jia Jiachen Li and Srikanth Malla. <br>
 <i>accepted to Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR</b>), 2021  (<b>Oral</b>) (\* Co-first author).
 
 <b>[DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning](https://corlconf.github.io/paper_18/)</b> <br>
