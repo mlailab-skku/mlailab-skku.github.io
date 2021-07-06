@@ -35,11 +35,6 @@ MS-PhD Student, Department of Artificial Intelligence <br>
 Sungkyunkwan University <br>
 Email: <a href="mailto:justice.yoo@gmail.com">justice.yoo [at] gmail.com</a> <br><br>
 
-<b>Jong Min Lee</b> <br>
-MS Student, Department of Artificial Intelligence <br>
-Sungkyunkwan University <br>
-Email: <a href="mailto:hary00078@naver.com">hary00078 [at] naver.com</a> <br><br>
-
 <b>Min Gyu Choi</b> <br>
 MS Student, Department of Artificial Intelligence <br>
 Sungkyunkwan University <br>
@@ -58,5 +53,26 @@ Email: <a href="mailto:kimhs1200@naver.com">kimhs1200 [at] naver.com</a>  <br><b
 BS Student, Department of Computer Science and Engineering <br>
 Sungkyunkwan University <br>
 Email: <a href="mailto:mii2026@naver.com">mii2026 [at] naver.com</a> <br><br>
+
+<b>Sang Ho Lee</b> <br>
+BS Student, Department of Computer Science and Engineering <br>
+Sungkyunkwan University <br>
+Email: <a href="mailto:lsh3982@naver.com">lsh3982 [at] naver.com</a> <br><br>
+
+<b>Joon Soo Choi</b> <br>
+BS Student, Department of Systems Management Engineering <br>
+Sungkyunkwan University <br>
+Email: <a href="mailto:wnstnc0120@gmail.com">wnstnc0120 [at] gmail.com</a> <br><br>
 </p>
+
+
+<hr size="3" width="90%" align="center" color="gray">
+<p>
+<br> <b> <x-large>Alumni</x-large> </b> <br> <br>
+<b>Jong Min Lee</b> <br>
+Currently Researcher at Hippo T&C <br>
+MS, Department of Artificial Intelligence, Sungkyunkwan University <br>
+Email: <a href="mailto:hary00078@naver.com">hary00078 [at] naver.com</a> <br><br>
+</p>
+
 
