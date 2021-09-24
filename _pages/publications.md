@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <b>Pre-prints</b>
-<hr size="1" padding="0px" margin-top="-1em" width="90%" align="center" color="gray">
+<hr size="1" padding="0px" style="margin-top:-8px" width="90%" align="center" color="gray">
 <b>Improving Sequence Model with Convex Combination based Self-Attention</b> <br>
 Jongmin Lee, Mingyu Choi and <b>Joon Hee Choi</b>. <br>
 <i>submitted</i>, 2021.
@@ -15,7 +15,7 @@ Jongmin Lee, Mingyu Choi and <b>Joon Hee Choi</b>. <br>
 <i>submitted</i>, 2021 (\* Co-first author).
 
 <b>Peer-reviewed Journals & Conferences</b>
-<hr size="1" width="90%" align="center" color="gray">
+<hr size="3" width="90%" align="center" color="gray">
 <b>[Shared Cross-Modal Trajectory Prediction for Autonomous Driving](https://openaccess.thecvf.com/content/CVPR2021/papers/Choi_Shared_Cross-Modal_Trajectory_Prediction_for_Autonomous_Driving_CVPR_2021_paper.pdf)</b> <br>
 \*Chiho Choi, \*<b>Joon Hee Choi</b>, Jiachen Li and Srikanth Malla. <br>
 <i>Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR</b>), 2021  (<b>Oral</b>) (\* Co-first author).
