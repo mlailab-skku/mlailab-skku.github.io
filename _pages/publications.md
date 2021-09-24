@@ -4,8 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>Pre-prints</b> <br>
-<hr size="2" padding="0px" margin="0px" width="90%" align="center" color="gray">
+<b>Pre-prints</b>
+<hr size="1" padding="0px" margin="0px" width="90%" align="center" color="gray">
 <b>Improving Sequence Model with Convex Combination based Self-Attention</b> <br>
 Jongmin Lee, Mingyu Choi and <b>Joon Hee Choi</b>. <br>
 <i>submitted</i>, 2021.
