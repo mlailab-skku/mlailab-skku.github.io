@@ -68,7 +68,6 @@ Email: <a href="mailto:lsh3982@naver.com">lsh3982 [at] naver.com</a> <br><br>
 BS Student, Department of Systems Management Engineering <br>
 Sungkyunkwan University <br>
 Email: <a href="mailto:wnstnc0120@gmail.com">wnstnc0120 [at] gmail.com</a> <br><br>
-</p>
 
 <b>Ji Myung Han</b> <br>
 BS Student, Department of Computer Science and Engineering <br>
