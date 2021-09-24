@@ -43,12 +43,12 @@ Email: <a href="mailto:kimhs1200@naver.com">kimhs1200 [at] naver.com</a>  <br><b
 <b>Han Bit Yun</b> <br>
 MS Student, Department of Artificial Intelligence <br>
 Sungkyunkwan University <br>
-Email: <a href="mailto:kimhs1200@naver.com">kimhs1200 [at] naver.com</a>  <br><br>
+Email: <a href="mailto:jhd632@naver.com">jhd632 [at] naver.com</a>  <br><br>
 
-<b>Hyun Seung Kim</b> <br>
+<b>Jieming Zhang</b> <br>
 MS Student, Department of Computer Science and Engineering <br>
 Sungkyunkwan University <br>
-Email: <a href="mailto:kimhs1200@naver.com">kimhs1200 [at] naver.com</a>  <br><br>
+Email: <a href="mailto:zhangjackie98@gmail.com">zhangjackie98 [at] gmail.com</a>  <br><br>
 </p>
 
 <hr size="3" width="90%" align="center" color="gray">
@@ -73,7 +73,7 @@ Email: <a href="mailto:wnstnc0120@gmail.com">wnstnc0120 [at] gmail.com</a> <br><
 <b>Ji Myung Han</b> <br>
 BS Student, Department of Computer Science and Engineering <br>
 Sungkyunkwan University <br>
-Email: <a href="mailto:wnstnc0120@gmail.com">wnstnc0120 [at] gmail.com</a> <br><br>
+Email: <a href="mailto:jumaumch1@naver.com">jumaumch1 [at] naver.com</a> <br><br>
 </p>
 
 <hr size="3" width="90%" align="center" color="gray">
