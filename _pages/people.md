@@ -29,12 +29,6 @@ Email: <a href="mailto:jhchoi2019@skku.edu">jhchoi2019 [at] skku.edu</a> <br><br
 <hr size="3" width="90%" align="center" color="gray">
 
 <p>
-<br> <b> <x-large>Graduate Students</x-large> </b> <br> <br>
-<b>Kyu Min Yoo</b> <br>
-MS-PhD Student, Department of Artificial Intelligence <br>
-Sungkyunkwan University <br>
-Email: <a href="mailto:justice.yoo@gmail.com">justice.yoo [at] gmail.com</a> <br><br>
-
 <b>Min Gyu Choi</b> <br>
 MS Student, Department of Artificial Intelligence <br>
 Sungkyunkwan University <br>
@@ -42,6 +36,16 @@ Email: <a href="mailto:mingyuu26@gmail.com">mingyuu26 [at] gmail.com</a> <br><br
 
 <b>Hyun Seung Kim</b> <br>
 MS Student, Department of Artificial Intelligence <br>
+Sungkyunkwan University <br>
+Email: <a href="mailto:kimhs1200@naver.com">kimhs1200 [at] naver.com</a>  <br><br>
+
+<b>Han Bit Yun</b> <br>
+MS Student, Department of Artificial Intelligence <br>
+Sungkyunkwan University <br>
+Email: <a href="mailto:kimhs1200@naver.com">kimhs1200 [at] naver.com</a>  <br><br>
+
+<b>Hyun Seung Kim</b> <br>
+MS Student, Department of Computer Science and Engineering <br>
 Sungkyunkwan University <br>
 Email: <a href="mailto:kimhs1200@naver.com">kimhs1200 [at] naver.com</a>  <br><br>
 </p>
@@ -65,6 +69,11 @@ Sungkyunkwan University <br>
 Email: <a href="mailto:wnstnc0120@gmail.com">wnstnc0120 [at] gmail.com</a> <br><br>
 </p>
 
+<b>Ji Myung Han</b> <br>
+BS Student, Department of Computer Science and Engineering <br>
+Sungkyunkwan University <br>
+Email: <a href="mailto:wnstnc0120@gmail.com">wnstnc0120 [at] gmail.com</a> <br><br>
+</p>
 
 <hr size="3" width="90%" align="center" color="gray">
 <p>
