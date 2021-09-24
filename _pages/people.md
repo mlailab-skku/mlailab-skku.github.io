@@ -29,6 +29,7 @@ Email: <a href="mailto:jhchoi2019@skku.edu">jhchoi2019 [at] skku.edu</a> <br><br
 <hr size="3" width="90%" align="center" color="gray">
 
 <p>
+<br> <b> <x-large>MS Students</x-large> </b> <br> <br>
 <b>Min Gyu Choi</b> <br>
 MS Student, Department of Artificial Intelligence <br>
 Sungkyunkwan University <br>
