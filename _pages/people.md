@@ -72,7 +72,7 @@ Email: <a href="mailto:wnstnc0120@gmail.com">wnstnc0120 [at] gmail.com</a> <br><
 
 <hr size="3" width="90%" align="center" color="gray">
 <p>
-<br> <b> <x-large>BS-MS Students</x-large> </b> <br> <br>
+<br> <b> <x-large>BS Students</x-large> </b> <br> <br>
 <b>Ji Myung Han</b> <br>
 BS Student, Department of Computer Science and Engineering <br>
 Sungkyunkwan University <br>
