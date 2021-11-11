@@ -55,17 +55,17 @@ Email: <a href="mailto:zhangjackie98@gmail.com">zhangjackie98 [at] gmail.com</a>
 <p>
 <br> <b> <x-large>BS-MS Students</x-large> </b> <br> <br>
 <b>Ji Hee Kim</b> <br>
-BS-MS Student, Department of Computer Science and Engineering <br>
+BS-MS Student, Department of Artificial Intelligence <br>
 Sungkyunkwan University <br>
 Email: <a href="mailto:mii2026@naver.com">mii2026 [at] naver.com</a> <br><br>
 
 <b>Sang Ho Lee</b> <br>
-BS-MS Student, Department of Computer Science and Engineering <br>
+BS-MS Student, Department of Artificial Intelligence <br>
 Sungkyunkwan University <br>
 Email: <a href="mailto:lsh3982@naver.com">lsh3982 [at] naver.com</a> <br><br>
 
 <b>Joon Soo Choi</b> <br>
-BS-MS Student, Department of Systems Management Engineering <br>
+BS-MS Student, Department of Artificial Intelligence <br>
 Sungkyunkwan University <br>
 Email: <a href="mailto:wnstnc0120@gmail.com">wnstnc0120 [at] gmail.com</a> <br><br>
 </p>
