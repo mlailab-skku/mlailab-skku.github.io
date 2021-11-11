@@ -34,7 +34,7 @@ Jongmin Lee and <b>Joon Hee Choi</b>. <br>
 
 <b>[DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning](https://corlconf.github.io/paper_18/)</b> <br>
 Chiho Choi, Abhishek Patil, Srikanth Malla and <b>Joon Hee Choi</b>. <br>
-<i>Conference on Robot Learning</i> (<b>CoRL</b>), Nov. 2020.
+<i>Conference on Robot Learning</i> (<b>CoRL</b>), 2020.
 
 <b>[Optimal Combination of Image Denoisers](https://ieeexplore.ieee.org/document/8663454)</b> <br>
 <b>Joon Hee Choi</b>, Omar Elgendy and Stanley Chan. <br>
