@@ -5,6 +5,14 @@ author_profile: true
 ---
 
 <br> <b> <x-large>PRE-PRINTS</x-large> </b> <br> <br>
+<b>Memory Module based Recurrent network for Image Denoising</b> <br>
+Mingyu Choi, Hyunseung Kim, Jongmin Lee and <b>Joon Hee Choi</b>. <br>
+<i>submitted</i>, 2021.
+
+<b>Region-Based Dual Attention Network for Image Restoration</b> <br>
+Hyunseung Kim, Mingyu Choi and <b>Joon Hee Choi</b>. <br>
+<i>submitted</i>, 2021.
+
 <b>Improving Sequence Model with Convex Combination based Self-Attention</b> <br>
 Jongmin Lee, Mingyu Choi and <b>Joon Hee Choi</b>. <br>
 <i>submitted</i>, 2021.
