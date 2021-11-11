@@ -30,7 +30,7 @@ Jongmin Lee, Mingyu Choi and <b>Joon Hee Choi</b>. <br>
 
 <b>[Artificial Neural Network Utilizing ACE and Self-Attention for Sequence Labeling](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002711398)</b> <br>
 Jongmin Lee and <b>Joon Hee Choi</b>. <br>
-Journal of Korean Institute of Intelligent Systems, 31(2), pp 127-135, 2021.
+<i>Journal of Korean Institute of Intelligent Systems</i>, 31(2), pp 127-135, 2021.
 
 <b>[DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning](https://corlconf.github.io/paper_18/)</b> <br>
 Chiho Choi, Abhishek Patil, Srikanth Malla and <b>Joon Hee Choi</b>. <br>
