@@ -7,11 +7,11 @@ author_profile: true
 <br> <b> <x-large>PRE-PRINTS</x-large> </b> <br> <br>
 <b>Memory Module based Recurrent network for Image Denoising</b> <br>
 Mingyu Choi, Hyunseung Kim, Jongmin Lee and <b>Joon Hee Choi</b>. <br>
-<i>submitted</i>, 2021.
+<i>submitted</i>, 2022.
 
 <b>DRAMA: Joint Risk Localization and Reasoning in Driving Scenarios</b> <br>
 \*Srikanth Malla, \*Chiho Choi, \*<b>Joon Hee Choi</b>, Isht Dwivedi and Jiachen Li. <br>
-<i>submitted</i>, 2021 (\* Co-first author).
+<i>submitted</i>, 2022 (\* Co-first author).
 
 <hr size="3" width="90%" align="center" color="gray">
 
