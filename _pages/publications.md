@@ -9,14 +9,6 @@ author_profile: true
 Mingyu Choi, Hyunseung Kim, Jongmin Lee and <b>Joon Hee Choi</b>. <br>
 <i>submitted</i>, 2021.
 
-<b>Region-Based Dual Attention Network for Image Restoration</b> <br>
-Hyunseung Kim, Mingyu Choi and <b>Joon Hee Choi</b>. <br>
-<i>submitted</i>, 2021.
-
-<b>Improving Sequence Model with Convex Combination based Self-Attention</b> <br>
-Jongmin Lee, Mingyu Choi and <b>Joon Hee Choi</b>. <br>
-<i>submitted</i>, 2021.
-
 <b>DRAMA: Joint Risk Localization and Reasoning in Driving Scenarios</b> <br>
 \*Srikanth Malla, \*Chiho Choi, \*<b>Joon Hee Choi</b>, Isht Dwivedi and Jiachen Li. <br>
 <i>submitted</i>, 2021 (\* Co-first author).
