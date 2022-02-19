@@ -30,16 +30,6 @@ Email: <a href="mailto:jhchoi2019@skku.edu">jhchoi2019 [at] skku.edu</a> <br><br
 
 <p>
 <br> <b> <x-large>MS Students</x-large> </b> <br> <br>
-<b>Min Gyu Choi</b> <br>
-MS Student, Department of Artificial Intelligence <br>
-Sungkyunkwan University <br>
-Email: <a href="mailto:mingyuu26@gmail.com">mingyuu26 [at] gmail.com</a> <br><br>
-
-<b>Hyun Seung Kim</b> <br>
-MS Student, Department of Artificial Intelligence <br>
-Sungkyunkwan University <br>
-Email: <a href="mailto:kimhs1200@naver.com">kimhs1200 [at] naver.com</a>  <br><br>
-
 <b>Han Bit Yun</b> <br>
 MS Student, Department of Artificial Intelligence <br>
 Sungkyunkwan University <br>
