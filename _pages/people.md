@@ -7,11 +7,8 @@ author_profile: true
 <p>
 <br> <b> <x-large>Group Leader</x-large> </b> <br> <br>
 <b>Joon Hee Choi</b> <br>
-Assistant professor, Department of Computer Science and Engineering <br>
-Assistant professor, Department of Artificial Intelligence <br>
-Assistant professor, Program for Social Innovation Convergence <br>
-Sungkyunkwan University <br>
-Email: <a href="mailto:jhchoi2019@skku.edu">jhchoi2019 [at] skku.edu</a> <br><br>
+Principal Engineer, Samsung Semiconductor, San Jose <br>
+Email: <a href="mailto:jhchoi0908@gmail.com">jhchoi0908 [at] gamil.com</a> <br><br>
 
 <i>Education</i> <br>
 - Ph.D. Purdue University (2018) <br>
@@ -19,7 +16,8 @@ Email: <a href="mailto:jhchoi2019@skku.edu">jhchoi2019 [at] skku.edu</a> <br><br
 - B.S. Sogang University (2004) <br> <br>
 
 <i>Employments</i> <br>
-- Sungkyunkwan University (2019-present) <br>
+- Principal Engineer, Samsung Semiconductor, San Jose (2022-present) <br>
+- Assistant professor, Computer Science and Engineering & Artificial Intelligence, Sungkyunkwan University (2019-22) <br>
 - Qualcomm Inc. (2018-2019) <br>
 - Pacific Northwest National Lab. (2016 summer) <br>
 - Samsung Electronics Co. (2003-2012) <br> <br>
@@ -89,10 +87,12 @@ MS, Department of Artificial Intelligence, Sungkyunkwan University <br>
 Email: <a href="mailto:hary00078@naver.com">hary00078 [at] naver.com</a> <br><br>
 
 <b>Min Gyu Choi</b> (2020-2022) <br>
+Currently Researcher at NHN <br>
 MS, Department of Artificial Intelligence, Sungkyunkwan University <br>
 Email: <a href="mailto:mingyuu26@gmail.com">mingyuu26 [at] gmail.com</a> <br><br>
 
 <b>Hyun Seung Kim</b> (2020-2022) <br>
+Currently Ph.D. student at Purdue University <br>
 MS, Department of Artificial Intelligence, Sungkyunkwan University <br>
 Email: <a href="mailto:kimhs1200@naver.com">kimhs1200 [at] naver.com</a>  <br><br>
 </p>
