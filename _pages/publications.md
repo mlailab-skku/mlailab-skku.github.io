@@ -5,15 +5,13 @@ author_profile: true
 ---
 
 <br> <b> <x-large>PRE-PRINTS</x-large> </b> <br> <br>
-<b>Memory Module based Recurrent network for Image Denoising</b> <br>
-Mingyu Choi, Hyunseung Kim, Jongmin Lee and <b>Joon Hee Choi</b>. <br>
-<i>submitted</i>, 2022.
 
-<b>DRAMA: Joint Risk Localization and Reasoning in Driving Scenarios</b> <br>
-\*Srikanth Malla, \*Chiho Choi, \*<b>Joon Hee Choi</b>, Isht Dwivedi and Jiachen Li. <br>
-<i>submitted</i>, 2022 (\* Co-first author).
 
 <hr size="3" width="90%" align="center" color="gray">
+
+<b>DRAMA: Joint Risk Localization and Reasoning in Driving Scenarios</b> <br>
+Srikanth Malla, Chiho Choi, <b>Joon Hee Choi</b>, Isht Dwivedi and Jiachen Li. <br>
+<i>IEEE/CVF Winter Conference on Applications of Computer Vision</i> (<b>WACV</b>), 2023.
 
 <b> <x-large>PEER-REVIEWED JOURNALS & CONFERENCES</x-large> </b> <br> <br>
 <b>[Shared Cross-Modal Trajectory Prediction for Autonomous Driving](https://openaccess.thecvf.com/content/CVPR2021/papers/Choi_Shared_Cross-Modal_Trajectory_Prediction_for_Autonomous_Driving_CVPR_2021_paper.pdf)</b> <br>
